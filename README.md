@@ -5,7 +5,10 @@
 - 🌱 I’m currently Working on Web development(MERN) <br>                    
   
 - 💞️ I’m looking to collaborate on every project which always given to me<br>
-- 📫 you can reach me on linkdIn https://www.linkedin.com/in/aamir-hussain-b0b3bb234?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B6jJsfW%2BZT%2FqdvzfVLoHl6g%3D%3D
+- 📫 You can reach me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aamir-hussain-b0b3bb234/)                                                            
+  
+  
+  
 
 
 ## 🌐 Socials:
