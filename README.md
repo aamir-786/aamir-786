@@ -1,10 +1,11 @@
 
 # 💫 About Me:
 - 👋 Hi, I’m @aamir-786 <br>
-- 👀 I’m interested in Coding , also in Web Development<br>
-- 🌱 I’m currently learning Web development <br>
+- 👀 I’m interested in Coding , also in Web Development(MERN)<br>
+- 🌱 I’m currently Working on Web development(MERN) <br>                    
+  
 - 💞️ I’m looking to collaborate on every project which always given to me<br>
-- 📫 you can reach me on linkdIn
+- 📫 you can reach me on linkdIn https://www.linkedin.com/in/aamir-hussain-b0b3bb234?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B6jJsfW%2BZT%2FqdvzfVLoHl6g%3D%3D
 
 
 ## 🌐 Socials:
