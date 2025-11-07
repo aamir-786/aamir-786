@@ -17,126 +17,151 @@
 </div>
 
 ###
+<h1 align="center">Hi 👋, I'm Aamir Hussain</h1>
+<h3 align="center">💻 Full Stack Developer | AI/ML Engineer | MERN & MEAN Stack Specialist</h3>
 
-<h1 align="center">Hey there 👋, I'm Aamir</h1>
-
-<h3 align="center">💻 Full Stack Developer | MERN & MEAN Stack | Web Enthusiast</h3>
-
----
-
-## 💫 About Me
-- 👋 Hi, I’m **@aamir-786**  
-- 👀 I’m interested in **Coding** and **Web Development (MERN)**  
-- 🌱 I’m currently working on **Web Development (MERN)** projects  
-- 💞️ I love collaborating on exciting and challenging projects  
-- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/aamir-hussain-b0b3bb234/)  
-- ⚡ Fun fact: I turn coffee ☕ into clean code!
+<p align="center">
+  <img src="https://github.com/Aamir-786/Aamir-786/blob/main/coding.gif" alt="Coding" width="380"/>
+</p>
 
 ---
 
-## 🌐 Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/amirhussain.mangrio.737/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aamirmangrio786)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aamir-hussain-b0b3bb234/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@aa)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mr___amir)
+## 🚀 About Me  
+Hi, I'm **Aamir Hussain**, a **Full-Stack Developer** and **AI/ML Engineer** who loves turning complex ideas into smooth, scalable digital experiences.  
+I specialize in **MERN Stack, PHP, and JavaScript**, and have a strong background in **AI integrations, deep learning, and automation systems**.  
+
+Over the past four years, I’ve worked on web platforms, machine learning applications, and UI/UX-focused tools that combine design precision with technical depth.  
+My approach is simple — write clean, efficient code that creates meaningful solutions.
+
+### 🎯 What I’m Doing
+- 🔭 Building **smart, scalable web applications** with React, Node.js, and Laravel  
+- 🤖 Integrating **AI/ML models** into full-stack products  
+- ☁️ Exploring **Next.js**, **TypeScript**, and **Cloud Deployments**  
+- 👯 Open to collaboration on **innovative AI-driven or web-based products**  
+- 💬 Ask me about **MERN, MEAN, Java, APIs, or UI/UX Design**  
+- 📫 Reach me at **[aamir.fss22@gmail.com](mailto:aamir.fss22@gmail.com)**  
+- ⚡ Fun fact: *I believe clean code creates clear minds.*
 
 ---
 
-## 🧠 Tech Stack
+## 🧠 Tech Expertise
 
-### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)
+### 🖥️ Programming Languages  
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=flat&logo=springboot&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white)
+### 🌐 Web Development  
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 
 ---
 
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
+### 🧩 Backend & Frameworks  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
 ---
 
-### 🧩 Frameworks & Stacks
-![MERN Stack](https://img.shields.io/badge/MERN-%2300D8FF.svg?style=flat&logo=react&logoColor=white)
-![MEAN Stack](https://img.shields.io/badge/MEAN-%23DD0031.svg?style=flat&logo=angular&logoColor=white)
-![Full Stack](https://img.shields.io/badge/Full%20Stack-%23000000.svg?style=flat&logo=web&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-%2300C7B7.svg?style=flat&logo=postman&logoColor=white)
-![GraphQL](https://img.shields.io/badge/graphql-%23E10098.svg?style=flat&logo=graphql&logoColor=white)
+### 🗄️ Databases  
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
 
-### 🧰 Tools & Platforms
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white)
-![Hostinger](https://img.shields.io/badge/Hostinger-0000ff?style=flat&logo=hostinger&logoColor=white)
+### ☁️ Tools & Platforms  
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=00C7B7)
+![Render](https://img.shields.io/badge/Render-%23000000.svg?style=for-the-badge&logo=render&logoColor=00C7B7)
 
 ---
 
-### 🔣 Programming Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=flat&logo=python&logoColor=white)
----
-
-### ☁️ Cloud & DevOps
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="aws" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dotnet" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go" />
-</div>
+## 🧰 Development Stacks  
+- ⚛️ **MERN Stack:** MongoDB | Express | React | Node.js  
+- 🅰️ **MEAN Stack:** MongoDB | Express | Angular | Node.js  
+- 🎨 **Frontend:** HTML | CSS | JS | React | Tailwind | UI/UX  
+- ⚙️ **Backend:** Node.js | PHP | Spring Boot | Express | Flask  
+- 🤖 **AI/ML:** TensorFlow | OpenCV | Scikit-learn | PyTorch  
 
 ---
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=aamir-786&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=aamir-786&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aamir-786&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🧩 Highlight Projects  
+Here are some projects that reflect my work style and skills:
+
+1. **Mugshot Manager:** AI-powered image management & facial recognition system  
+2. **Legacy Capsule:** Encrypted digital vault for memory & data preservation  
+3. **Grace After 50:** Wellness & lifestyle platform focused on accessibility  
+4. **Book Bounty:** AI-based book recommendation & library system  
+5. **Global Topup:** Real-time payment & international recharge system  
+6. **SmartOffice Controller:** IoT dashboard for smart office automation  
+7. **TravelX:** AI travel planner with smart itinerary generation  
+8. **Lexer Project (Tron Language):** Compiler design showcasing algorithmic expertise  
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Aamir-786&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aamir-786&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aamir-786&theme=react-dark" />
+</p>
 
 ---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=aamir-786&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🌀 Animated Skills Overview  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,angular,java,php,python,mysql,bootstrap,tailwind,git,github,vscode,figma&perline=9" />
+</p>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=aamir-786&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🌍 Connect With Me  
+
+<p align="center">
+  <a href="https://github.com/Aamir-786" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/aamir-hussain-786" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:aamir.fss22@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" width="50" height="50" alt="Gmail"/>
+  </a>
+  <a href="https://mr-aamir-folio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
+---
+
+<h3 align="center">⭐ Show some love by starring my repositories! ⭐</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
