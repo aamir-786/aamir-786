@@ -123,8 +123,8 @@ Here are some projects that reflect my work style and skills:
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Aamir-786&show_icons=true&theme=radical" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=Aamir-786&theme=radical" />
+<img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Aamir-786&show_icons=true&theme=radical" />
+<img width="48%" src="https://streak-stats.demolab.com?user=Aamir-786&theme=radical" />
 </p>
 
 <p align="center">
