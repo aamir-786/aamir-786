@@ -23,7 +23,6 @@
 <p align="center">
   <img src="https://github.com/Aamir-786/Aamir-786/blob/main/coding.gif" alt="Coding" width="380"/>
 </p>
-
 ---
 
 ## 🚀 About Me  
@@ -163,6 +162,9 @@ Here are some projects that reflect my work style and skills:
 
 <h3 align="center">⭐ Show some love by starring my repositories! ⭐</h3>
 
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
+
+
