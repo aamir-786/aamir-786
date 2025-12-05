@@ -22,7 +22,6 @@
 <p align="center">
   <img src="https://github.com/Aamir-786/Aamir-786/blob/main/coding.gif" alt="Coding" width="380"/>
 </p>
----
 
 ## 🚀 About Me  
 Hi, I'm **Aamir Hussain**, a **Full-Stack Developer** and **AI/ML Engineer** who loves turning complex ideas into smooth, scalable digital experiences.  
