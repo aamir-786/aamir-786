@@ -144,7 +144,7 @@ Here are some projects that reflect my work style and skills:
   <a href="https://github.com/Aamir-786" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/in/aamir-hussain-786" target="_blank">
+  <a href="https://www.linkedin.com/in/aamir-hussain-mangrio" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50" alt="LinkedIn"/>
   </a>
   <a href="mailto:aamir.fss22@gmail.com" target="_blank">
