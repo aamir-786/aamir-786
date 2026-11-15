@@ -1,167 +1,111 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+  <img src="./assets/header.svg" width="100%" alt="Aamir Hussain, full stack developer" />
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo" />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="25" alt="youtube logo" />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="25" alt="twitter logo" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=aamir-786.aamir-786" />
-</div>
-
-###
-<h1 align="center">Hi 👋, I'm Aamir Hussain</h1>
-<h3 align="center">💻 Full Stack Developer | AI/ML Engineer | MERN & MEAN Stack Specialist</h3>
-
 <p align="center">
-  <img src="https://github.com/Aamir-786/Aamir-786/blob/main/coding.gif" alt="Coding" width="380"/>
+  <a href="https://mr-aamir-folio.vercel.app/"><img src="https://img.shields.io/badge/portfolio-161b22?style=for-the-badge&logo=vercel&logoColor=e8b04a" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/aamir-hussain-mangrio"><img src="https://img.shields.io/badge/linkedin-161b22?style=for-the-badge&logo=linkedin&logoColor=e8b04a" alt="LinkedIn" /></a>
+  <a href="mailto:aamir.fss22@gmail.com"><img src="https://img.shields.io/badge/email-161b22?style=for-the-badge&logo=gmail&logoColor=e8b04a" alt="Email" /></a>
+  <a href="https://github.com/aamir-786/DAX-IDS"><img src="https://img.shields.io/badge/paper-DAX--IDS-161b22?style=for-the-badge&logo=readthedocs&logoColor=e8b04a" alt="Paper" /></a>
 </p>
 
-## 🚀 About Me  
-Hi, I'm **Aamir Hussain**, a **Full-Stack Developer** and **AI/ML Engineer** who loves turning complex ideas into smooth, scalable digital experiences.  
-I specialize in **MERN Stack, PHP, and JavaScript**, and have a strong background in **AI integrations, deep learning, and automation systems**.  
+<br/>
 
-Over the past four years, I’ve worked on web platforms, machine learning applications, and UI/UX-focused tools that combine design precision with technical depth.  
-My approach is simple — write clean, efficient code that creates meaningful solutions.
+<img src="./assets/h-hello.svg" width="100%" alt="Hello" />
 
-### 🎯 What I’m Doing
-- 🔭 Building **smart, scalable web applications** with React, Node.js, and Laravel  
-- 🤖 Integrating **AI/ML models** into full-stack products  
-- ☁️ Exploring **Next.js**, **TypeScript**, and **Cloud Deployments**  
-- 👯 Open to collaboration on **innovative AI-driven or web-based products**  
-- 💬 Ask me about **MERN, MEAN, Java, APIs, or UI/UX Design**  
-- 📫 Reach me at **[aamir.fss22@gmail.com](mailto:aamir.fss22@gmail.com)**  
-- ⚡ Fun fact: *I believe clean code creates clear minds.*
+I'm Aamir. I write full stack software, mostly on the MERN stack, and my favourite part of a project is the stretch where a rough idea turns into something people can actually click on.
 
----
+I finished my CS degree at Sukkur IBA in 2026. Before that I freelanced for a few years, did contract work on a global hotel booking platform, and most recently wrapped up a remote internship with an Australian risk management company, where I worked on four of their products.
 
-## 🧠 Tech Expertise
+Outside client work I do research. A paper I led on IoT intrusion detection was accepted at ApplePies 2026 and will appear in Springer's LNEE proceedings. I'm also a Hafiz-e-Quran, and I like to think the same habits help with code: patience, repetition, and checking your work twice.
 
-### 🖥️ Programming Languages  
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+<br/>
 
----
+<img src="./assets/h-now.svg" width="100%" alt="Right now" />
 
-### 🌐 Web Development  
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+<img src="./assets/now.svg" width="100%" alt="Currently seeking software engineer roles, learning Datadog, Sentry, Zendesk and Snowflake, reading about Master's programs abroad, open to freelance work and collaborations" />
 
----
+<br/>
 
-### 🧩 Backend & Frameworks  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+<img src="./assets/h-research.svg" width="100%" alt="Research" />
 
----
+<a href="https://github.com/aamir-786/DAX-IDS">
+  <img src="./assets/research.svg" width="100%" alt="DAX-IDS: Drift-Aware Explainable Evaluation of Cross-Dataset IoT Intrusion Detection" />
+</a>
 
-### 🗄️ Databases  
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+<sub>Co-authors are from Sukkur IBA, University of Aveiro, Tallinn University of Technology and University of Genoa. The models are compared within each dataset first, then across them, using a shared 40-feature representation. Interests: IoT security, intrusion detection, feature drift, explainable ML, metric learning.</sub>
 
----
+<!-- When you have them, add research profile badges here:
+<a href="YOUR_SCHOLAR_LINK"><img src="https://img.shields.io/badge/scholar-161b22?style=for-the-badge&logo=googlescholar&logoColor=e8b04a" /></a>
+<a href="YOUR_ORCID_LINK"><img src="https://img.shields.io/badge/orcid-161b22?style=for-the-badge&logo=orcid&logoColor=e8b04a" /></a>
+-->
 
-### ☁️ Tools & Platforms  
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=00C7B7)
-![Render](https://img.shields.io/badge/Render-%23000000.svg?style=for-the-badge&logo=render&logoColor=00C7B7)
+<br/>
 
----
+<img src="./assets/h-work.svg" width="100%" alt="Work" />
 
-## 🧰 Development Stacks  
-- ⚛️ **MERN Stack:** MongoDB | Express | React | Node.js  
-- 🅰️ **MEAN Stack:** MongoDB | Express | Angular | Node.js  
-- 🎨 **Frontend:** HTML | CSS | JS | React | Tailwind | UI/UX  
-- ⚙️ **Backend:** Node.js | PHP | Spring Boot | Express | Flask  
-- 🤖 **AI/ML:** TensorFlow | OpenCV | Scikit-learn | PyTorch  
+<img src="./assets/work.svg" width="100%" alt="Software Engineer Intern at Effective Risk Management, freelance full stack developer, contract developer at Hotevi.com, intern at EpicKod, BS Computer Science at Sukkur IBA University" />
 
----
+<br/>
 
-## 🧩 Highlight Projects  
-Here are some projects that reflect my work style and skills:
-
-1. **Mugshot Manager:** AI-powered image management & facial recognition system  
-2. **Legacy Capsule:** Encrypted digital vault for memory & data preservation  
-3. **Grace After 50:** Wellness & lifestyle platform focused on accessibility  
-4. **Book Bounty:** AI-based book recommendation & library system  
-5. **Global Topup:** Real-time payment & international recharge system  
-6. **SmartOffice Controller:** IoT dashboard for smart office automation  
-7. **TravelX:** AI travel planner with smart itinerary generation  
-8. **Lexer Project (Tron Language):** Compiler design showcasing algorithmic expertise  
-
----
-
-## 📊 GitHub Stats  
+<img src="./assets/h-projects.svg" width="100%" alt="Projects" />
 
 <p align="center">
-<img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Aamir-786&show_icons=true&theme=radical" />
-<img width="48%" src="https://streak-stats.demolab.com?user=Aamir-786&theme=radical" />
+  <img src="./assets/p1.svg" width="49%" alt="E-Parliament System" />
+  <img src="./assets/p2.svg" width="49%" alt="ShareNet" />
+</p>
+<p align="center">
+  <img src="./assets/p3.svg" width="49%" alt="Veritus" />
+  <img src="./assets/p4.svg" width="49%" alt="Negotio" />
+</p>
+<p align="center">
+  <img src="./assets/p5.svg" width="49%" alt="Pneumonia Detection" />
+  <img src="./assets/p6.svg" width="49%" alt="IoT Intrusion Detection" />
+</p>
+<p align="center">
+  <img src="./assets/p7.svg" width="49%" alt="C-Section Symptom Explainer" />
+  <img src="./assets/p8.svg" width="49%" alt="MilepactEscrow Audit" />
+</p>
+
+Also built: **LaundryBook** (dorm laundry booking and scheduling), **NoteSwap** (2nd place at Techathon 2025), **FasalDoc** (crop disease detection).
+
+<details>
+<summary>Older projects</summary>
+<br/>
+
+Mugshot Manager (facial recognition and image management), Legacy Capsule (encrypted digital vault), Grace After 50 (accessible wellness platform), Book Bounty (book recommendations and library system), Global Topup (international recharge payments), SmartOffice Controller (IoT dashboard), TravelX (AI trip planner), and the Lexer project (a compiler for the Tron language).
+
+</details>
+
+<br/>
+
+<img src="./assets/h-stack.svg" width="100%" alt="Stack" />
+
+<img src="./assets/stack.svg" width="100%" alt="Languages, frontend, backend, data, AI and ML, infrastructure, and tools currently being learned" />
+
+<br/>
+
+<img src="./assets/h-numbers.svg" width="100%" alt="Numbers" />
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aamir-786&show_icons=true&count_private=true&bg_color=151922&title_color=e8b04a&text_color=c9d1d9&icon_color=5fd3c4&border_color=2a313b&border_radius=12" alt="GitHub stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aamir-786&layout=compact&bg_color=151922&title_color=e8b04a&text_color=c9d1d9&border_color=2a313b&border_radius=12" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aamir-786&theme=react-dark" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=aamir-786&background=151922&border=2a313b&ring=e8b04a&fire=e8b04a&currStreakLabel=e8b04a&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=8b949e&dates=6f7886&stroke=2a313b&border_radius=12" alt="Contribution streak" />
 </p>
-
-
----
-
-## 🌀 Animated Skills Overview  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,angular,java,php,python,mysql,bootstrap,tailwind,git,github,vscode,figma&perline=9" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aamir-786&bg_color=0f1115&color=e8b04a&line=e8b04a&point=5fd3c4&area=true&area_color=e8b04a&hide_border=true" alt="Contribution activity graph" />
 </p>
 
----
+<br/>
 
-## 🌍 Connect With Me  
+<a href="mailto:aamir.fss22@gmail.com">
+  <img src="./assets/footer.svg" width="100%" alt="Have something to build? aamir.fss22@gmail.com" />
+</a>
 
 <p align="center">
-  <a href="https://github.com/Aamir-786" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/aamir-hussain-mangrio" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:aamir.fss22@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" width="50" height="50" alt="Gmail"/>
-  </a>
-  <a href="https://mr-aamir-folio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
 </p>
-
----
-
-<h3 align="center">⭐ Show some love by starring my repositories! ⭐</h3>
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
-
