@@ -1,14 +1,16 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:182B3A,75:253B53,100:E8B04A&height=230&section=header&text=AAMIR%20HUSSAIN&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20AI%2FML%20ENGINEER&descSize=16&descColor=5FD3C4&descAlignY=59&animation=fadeIn" />
+<img src="./assets/header.svg" width="100%" alt="Aamir Hussain - Full Stack Developer and AI/ML Engineer" />
+
+<br/>
 
 <a href="https://mr-aamir-folio.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-182435?style=for-the-badge&logo=vercel&logoColor=E8B04A" /></a>
 <a href="https://www.linkedin.com/in/aamir-hussain-mangrio"><img src="https://img.shields.io/badge/LINKEDIN-182435?style=for-the-badge&logo=linkedin&logoColor=5FD3C4" /></a>
 <a href="mailto:aamir.fss22@gmail.com"><img src="https://img.shields.io/badge/EMAIL-182435?style=for-the-badge&logo=gmail&logoColor=E8B04A" /></a>
 <a href="https://github.com/aamir-786"><img src="https://img.shields.io/badge/GITHUB-182435?style=for-the-badge&logo=github&logoColor=9B8AFB" /></a>
 
-<br/>
+<br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=900&color=5FD3C4&center=true&vCenter=true&width=650&lines=Building+products+that+solve+real+problems.;Full+Stack+Development+%E2%80%A2+AI%2FML;Turning+ideas+into+working+software." alt="Typing introduction" />
 
@@ -36,7 +38,7 @@ Outside technology, I'm a **Hafiz-e-Quran**. I value consistency, patience, and 
 
 ### <img src="https://img.shields.io/badge/BUILDING-152B32?style=flat-square&logo=github&logoColor=5FD3C4" />
 
-- Full stack web applications
+- Full Stack applications
 - AI-powered software products
 - Freelance and independent projects
 - Practical tools that solve real problems
@@ -240,9 +242,11 @@ I'm always happy to connect with developers, researchers, founders, and people b
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Snake" />
 
-<br/>
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:182B3A,100:E8B04A&height=110&section=footer" width="100%" />
+<img src="./assets/footer.svg" width="100%" alt="Aamir Hussain - Footer" />
+
+<br/>
 
 <sub>Building, learning, and improving one project at a time.</sub>
 
