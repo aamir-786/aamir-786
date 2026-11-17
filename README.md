@@ -1,111 +1,249 @@
+
 <div align="center">
-  <img src="./assets/header.svg" width="100%" alt="Aamir Hussain, full stack developer" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:182B3A,75:253B53,100:E8B04A&height=230&section=header&text=AAMIR%20HUSSAIN&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20AI%2FML%20ENGINEER&descSize=16&descColor=5FD3C4&descAlignY=59&animation=fadeIn" />
+
+<a href="https://mr-aamir-folio.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-182435?style=for-the-badge&logo=vercel&logoColor=E8B04A" /></a>
+<a href="https://www.linkedin.com/in/aamir-hussain-mangrio"><img src="https://img.shields.io/badge/LINKEDIN-182435?style=for-the-badge&logo=linkedin&logoColor=5FD3C4" /></a>
+<a href="mailto:aamir.fss22@gmail.com"><img src="https://img.shields.io/badge/EMAIL-182435?style=for-the-badge&logo=gmail&logoColor=E8B04A" /></a>
+<a href="https://github.com/aamir-786"><img src="https://img.shields.io/badge/GITHUB-182435?style=for-the-badge&logo=github&logoColor=9B8AFB" /></a>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=900&color=5FD3C4&center=true&vCenter=true&width=650&lines=Building+products+that+solve+real+problems.;Full+Stack+Development+%E2%80%A2+AI%2FML;Turning+ideas+into+working+software." alt="Typing introduction" />
+
 </div>
 
-<p align="center">
-  <a href="https://mr-aamir-folio.vercel.app/"><img src="https://img.shields.io/badge/portfolio-161b22?style=for-the-badge&logo=vercel&logoColor=e8b04a" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/aamir-hussain-mangrio"><img src="https://img.shields.io/badge/linkedin-161b22?style=for-the-badge&logo=linkedin&logoColor=e8b04a" alt="LinkedIn" /></a>
-  <a href="mailto:aamir.fss22@gmail.com"><img src="https://img.shields.io/badge/email-161b22?style=for-the-badge&logo=gmail&logoColor=e8b04a" alt="Email" /></a>
-  <a href="https://github.com/aamir-786/DAX-IDS"><img src="https://img.shields.io/badge/paper-DAX--IDS-161b22?style=for-the-badge&logo=readthedocs&logoColor=e8b04a" alt="Paper" /></a>
-</p>
+---
+
+## 🟡 About Me
+
+I'm **Aamir Hussain**, a Computer Science graduate from **Sukkur IBA University (2026)**. I enjoy building full stack applications, exploring artificial intelligence, and turning ideas into practical software.
+
+My main focus is the MERN stack, but I also work across AI/ML, cloud infrastructure, databases, and modern development tools. I enjoy the complete development process, from designing interfaces and building APIs to deployment and integration.
+
+My experience includes freelance software development, contract development for a global hotel booking platform, and a Software Engineering internship with an Australian risk management company.
+
+I also led an IoT intrusion detection research paper accepted at **ApplePies 2026**, with intended publication in Springer's *Lecture Notes in Electrical Engineering (LNEE)*.
+
+Outside technology, I'm a **Hafiz-e-Quran**. I value consistency, patience, and continuous learning.
+
+## 🟢 What I'm Currently Doing
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### <img src="https://img.shields.io/badge/BUILDING-152B32?style=flat-square&logo=github&logoColor=5FD3C4" />
+
+- Full stack web applications
+- AI-powered software products
+- Freelance and independent projects
+- Practical tools that solve real problems
+
+</td>
+<td width="50%" valign="top">
+
+### <img src="https://img.shields.io/badge/EXPLORING-302719?style=flat-square&logo=bookstack&logoColor=E8B04A" />
+
+- LLMs and agentic AI
+- Observability and monitoring
+- Modern data platforms
+- International Master's opportunities
+
+</td>
+</tr>
+</table>
+
+I'm open to Full Stack Engineering and AI Engineering opportunities, freelance projects, and meaningful collaborations.
+
+## 🟣 Research & Publications
+
+### DAX-IDS
+
+**Drift-Aware Explainable Evaluation of Cross-Dataset IoT Intrusion Detection**
+
+<img src="https://img.shields.io/badge/CONFERENCE-APPLEPIES%202026-E8B04A?style=flat-square&labelColor=182435" />
+<img src="https://img.shields.io/badge/PROCEEDINGS-SPRINGER%20LNEE-5FD3C4?style=flat-square&labelColor=182435" />
+<img src="https://img.shields.io/badge/DOMAIN-IOT%20SECURITY-9B8AFB?style=flat-square&labelColor=182435" />
+
+Research focused on evaluating machine learning models for IoT intrusion detection across different datasets.
+
+**Research focus:**
+- Cross-dataset model evaluation
+- Shared 40-feature representation
+- Feature drift analysis
+- Explainable machine learning
+- Metric learning and IoT cybersecurity
+
+**Research collaboration:** Sukkur IBA University, University of Aveiro, Tallinn University of Technology, and University of Genoa.
+
+<a href="https://github.com/aamir-786/DAX-IDS"><img src="https://img.shields.io/badge/EXPLORE%20RESEARCH-182435?style=for-the-badge&logo=github&logoColor=5FD3C4" /></a>
+
+## 🔵 Professional Journey
+
+| Position | Organization | Period |
+|:---|:---|:---:|
+| Freelance Software Engineer | Fiverr / Independent | 2023 – Present |
+| Software Engineer Intern | Effective Risk Management | 2026 |
+| Contract Developer | Hotevi.com | Project-based |
+| Full Stack Developer Intern | EpicKod Pvt. Ltd. | 2025 |
+| BS Computer Science | Sukkur IBA University | 2022 – 2026 |
+
+## 🟡 Selected Projects
+
+<div align="center">
+
+### Featured Work
+
+<a href="https://e-parliamentsystem.vercel.app/"><img src="./assets/p1.svg" width="48%" alt="E-Parliament System" /></a>
+<img src="./assets/p2.svg" width="48%" alt="ShareNet" />
+
+<a href="https://veritus-effectiverm.vercel.app/"><img src="./assets/p3.svg" width="48%" alt="Veritus" /></a>
+<img src="./assets/p4.svg" width="48%" alt="Negotio" />
+
+<img src="./assets/p5.svg" width="48%" alt="Pneumonia Detection" />
+<a href="https://github.com/aamir-786/DAX-IDS"><img src="./assets/p6.svg" width="48%" alt="IoT Intrusion Detection" /></a>
+
+<img src="./assets/p7.svg" width="48%" alt="C-Section Symptom Explainer" />
+<img src="./assets/p8.svg" width="48%" alt="MilepactEscrow Audit" />
+
+</div>
+
+### A Few Project Highlights
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**E-Parliament System**
+
+Digital transformation of Pakistan's National Assembly with role-based portals, real-time communication, and AI-powered features.
+
+`MERN` `Socket.IO` `Whisper` `Gemini`
+
+<a href="https://e-parliamentsystem.vercel.app/">View Live Project ↗</a>
+
+</td>
+<td width="50%" valign="top">
+
+**Veritus**
+
+Business learning platform featuring courses, quizzes, certificates, analytics, coupons, and a marketplace.
+
+`Full Stack Development`
+
+<a href="https://veritus-effectiverm.vercel.app/">View Live Project ↗</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**IoT Intrusion Detection**
+
+Research project focused on machine learning evaluation for detecting malicious activity in IoT environments.
+
+`Python` `TensorFlow` `Scikit-learn`
+
+<a href="https://github.com/aamir-786/DAX-IDS">Research Repository ↗</a>
+
+</td>
+<td width="50%" valign="top">
+
+**Pneumonia Detection**
+
+Deep learning-based medical image classification project.
+
+`Python` `Deep Learning` `CNN`
+
+</td>
+</tr>
+</table>
+
+### More Projects
+
+| Project | Description |
+|:---|:---|
+| ShareNet | Collaborative resource-sharing project |
+| Negotio | Negotiation and business workflow project |
+| C-Section Symptom Explainer | Accessible symptom explanation application |
+| MilepactEscrow Audit | Escrow workflow auditing project |
+| LaundryBook | Dormitory laundry booking and scheduling |
+| NoteSwap | Academic resource sharing, 2nd place at Techathon 2025 |
+| FasalDoc | Crop disease detection |
+| Grace After 50 | Accessible wellness platform |
+| Mugshot Manager | Facial recognition and image management |
+| Legacy Capsule | Encrypted digital vault |
+| Book Bounty | Book recommendations and library management |
+| Global Topup | International recharge platform |
+| SmartOffice Controller | IoT-based office dashboard |
+| TravelX | AI-powered trip planner |
+| Lexer | Compiler implementation for the Tron language |
+
+## 🟢 Technologies & Tools
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,php&theme=dark" />
+
+### Frontend Development
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,html,css,tailwind&theme=dark" />
+
+### Backend Development
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,spring&theme=dark" />
+
+### Databases & Cloud
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,supabase,firebase,aws,docker&theme=dark" />
+
+### AI / ML & Development Tools
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,git,github,vscode&theme=dark" />
+
+</div>
+
+## 🟣 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aamir-786&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E8B04A&text_color=C9D1D9&icon_color=5FD3C4&ring_color=9B8AFB" alt="GitHub Statistics" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aamir-786&layout=compact&hide_border=true&bg_color=0D1117&title_color=5FD3C4&text_color=C9D1D9" alt="Most Used Languages" />
+
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=aamir-786&hide_border=true&background=0D1117&ring=E8B04A&fire=FF8B5E&currStreakLabel=5FD3C4&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aamir-786&bg_color=0D1117&color=E8B04A&line=5FD3C4&point=9B8AFB&area=true&area_color=253B53&hide_border=true" alt="GitHub Activity Graph" />
+
+</div>
+
+## 🔵 Let's Connect
+
+<div align="center">
+
+### Have an interesting idea or project?
+
+I'm always happy to connect with developers, researchers, founders, and people building meaningful things.
+
+<a href="https://mr-aamir-folio.vercel.app/"><img src="https://img.shields.io/badge/VISIT%20MY%20PORTFOLIO-E8B04A?style=for-the-badge&logo=vercel&logoColor=0D1117" /></a>
+<a href="https://www.linkedin.com/in/aamir-hussain-mangrio"><img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-5FD3C4?style=for-the-badge&logo=linkedin&logoColor=0D1117" /></a>
+<a href="mailto:aamir.fss22@gmail.com"><img src="https://img.shields.io/badge/LET'S%20TALK-9B8AFB?style=for-the-badge&logo=gmail&logoColor=0D1117" /></a>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Snake" />
 
 <br/>
 
-<img src="./assets/h-hello.svg" width="100%" alt="Hello" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:182B3A,100:E8B04A&height=110&section=footer" width="100%" />
 
-I'm Aamir. I write full stack software, mostly on the MERN stack, and my favourite part of a project is the stretch where a rough idea turns into something people can actually click on.
+<sub>Building, learning, and improving one project at a time.</sub>
 
-I finished my CS degree at Sukkur IBA in 2026. Before that I freelanced for a few years, did contract work on a global hotel booking platform, and most recently wrapped up a remote internship with an Australian risk management company, where I worked on four of their products.
-
-Outside client work I do research. A paper I led on IoT intrusion detection was accepted at ApplePies 2026 and will appear in Springer's LNEE proceedings. I'm also a Hafiz-e-Quran, and I like to think the same habits help with code: patience, repetition, and checking your work twice.
-
-<br/>
-
-<img src="./assets/h-now.svg" width="100%" alt="Right now" />
-
-<img src="./assets/now.svg" width="100%" alt="Currently seeking software engineer roles, learning Datadog, Sentry, Zendesk and Snowflake, reading about Master's programs abroad, open to freelance work and collaborations" />
-
-<br/>
-
-<img src="./assets/h-research.svg" width="100%" alt="Research" />
-
-<a href="https://github.com/aamir-786/DAX-IDS">
-  <img src="./assets/research.svg" width="100%" alt="DAX-IDS: Drift-Aware Explainable Evaluation of Cross-Dataset IoT Intrusion Detection" />
-</a>
-
-<sub>Co-authors are from Sukkur IBA, University of Aveiro, Tallinn University of Technology and University of Genoa. The models are compared within each dataset first, then across them, using a shared 40-feature representation. Interests: IoT security, intrusion detection, feature drift, explainable ML, metric learning.</sub>
-
-<!-- When you have them, add research profile badges here:
-<a href="YOUR_SCHOLAR_LINK"><img src="https://img.shields.io/badge/scholar-161b22?style=for-the-badge&logo=googlescholar&logoColor=e8b04a" /></a>
-<a href="YOUR_ORCID_LINK"><img src="https://img.shields.io/badge/orcid-161b22?style=for-the-badge&logo=orcid&logoColor=e8b04a" /></a>
--->
-
-<br/>
-
-<img src="./assets/h-work.svg" width="100%" alt="Work" />
-
-<img src="./assets/work.svg" width="100%" alt="Software Engineer Intern at Effective Risk Management, freelance full stack developer, contract developer at Hotevi.com, intern at EpicKod, BS Computer Science at Sukkur IBA University" />
-
-<br/>
-
-<img src="./assets/h-projects.svg" width="100%" alt="Projects" />
-
-<p align="center">
-  <img src="./assets/p1.svg" width="49%" alt="E-Parliament System" />
-  <img src="./assets/p2.svg" width="49%" alt="ShareNet" />
-</p>
-<p align="center">
-  <img src="./assets/p3.svg" width="49%" alt="Veritus" />
-  <img src="./assets/p4.svg" width="49%" alt="Negotio" />
-</p>
-<p align="center">
-  <img src="./assets/p5.svg" width="49%" alt="Pneumonia Detection" />
-  <img src="./assets/p6.svg" width="49%" alt="IoT Intrusion Detection" />
-</p>
-<p align="center">
-  <img src="./assets/p7.svg" width="49%" alt="C-Section Symptom Explainer" />
-  <img src="./assets/p8.svg" width="49%" alt="MilepactEscrow Audit" />
-</p>
-
-Also built: **LaundryBook** (dorm laundry booking and scheduling), **NoteSwap** (2nd place at Techathon 2025), **FasalDoc** (crop disease detection).
-
-<details>
-<summary>Older projects</summary>
-<br/>
-
-Mugshot Manager (facial recognition and image management), Legacy Capsule (encrypted digital vault), Grace After 50 (accessible wellness platform), Book Bounty (book recommendations and library system), Global Topup (international recharge payments), SmartOffice Controller (IoT dashboard), TravelX (AI trip planner), and the Lexer project (a compiler for the Tron language).
-
-</details>
-
-<br/>
-
-<img src="./assets/h-stack.svg" width="100%" alt="Stack" />
-
-<img src="./assets/stack.svg" width="100%" alt="Languages, frontend, backend, data, AI and ML, infrastructure, and tools currently being learned" />
-
-<br/>
-
-<img src="./assets/h-numbers.svg" width="100%" alt="Numbers" />
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aamir-786&show_icons=true&count_private=true&bg_color=151922&title_color=e8b04a&text_color=c9d1d9&icon_color=5fd3c4&border_color=2a313b&border_radius=12" alt="GitHub stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aamir-786&layout=compact&bg_color=151922&title_color=e8b04a&text_color=c9d1d9&border_color=2a313b&border_radius=12" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=aamir-786&background=151922&border=2a313b&ring=e8b04a&fire=e8b04a&currStreakLabel=e8b04a&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=8b949e&dates=6f7886&stroke=2a313b&border_radius=12" alt="Contribution streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aamir-786&bg_color=0f1115&color=e8b04a&line=e8b04a&point=5fd3c4&area=true&area_color=e8b04a&hide_border=true" alt="Contribution activity graph" />
-</p>
-
-<br/>
-
-<a href="mailto:aamir.fss22@gmail.com">
-  <img src="./assets/footer.svg" width="100%" alt="Have something to build? aamir.fss22@gmail.com" />
-</a>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
-</p>
+</div>
